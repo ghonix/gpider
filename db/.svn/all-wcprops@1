@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/daily_digest/!svn/ver/154/crawler/crawler/db
+END
+insert_news_sources.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/daily_digest/!svn/ver/354/crawler/crawler/db/insert_news_sources.rb
+END
+insert_article_writers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/daily_digest/!svn/ver/31/crawler/crawler/db/insert_article_writers.rb
+END
+migrate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/daily_digest/!svn/ver/9/crawler/crawler/db/migrate.rb
+END
+columns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/daily_digest/!svn/ver/31/crawler/crawler/db/columns.txt
+END

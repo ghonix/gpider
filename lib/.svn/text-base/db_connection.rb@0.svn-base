@@ -1,0 +1,16 @@
+require 'active_record'
+
+pwd  = File.dirname(File.expand_path(__FILE__))
+
+config_path = pwd + "/../../crawler_web/config/database.yml"
+
+db_config = YAML::load_file(config_path);
+
+# establishing database connection
+begin
+   ActiveRecord::Base.establish_connection(db_config["development"])
+rescue Exception => e
+   puts e
+   exit 1;
+end
+
